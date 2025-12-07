@@ -3,7 +3,7 @@
 🚀 **About Me:**  
 - 💻 Passionate about **Cloud, Backend, Distributed Systems, APIs, DevOps**  
 - 🔥 Experienced in **Python, FastAPI, SQLAlchemy, Go, AWS, Azure*  
-- 📊 Exploring **GenAI**
+- 📊 Exploring **Data Engineering, GenAI**
 
 📫 **How to Reach Me:**  
 - 📧 Email: ayushdoesdev@gmail.com  
