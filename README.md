@@ -1,9 +1,10 @@
 ### 👋 Hi, I'm Ayush (@ayushdoesdev)  
 
 🚀 **About Me:**  
-- 💻 Passionate about **Cloud, Backend, Distributed Systems, APIs, DevOps**  
-- 🔥 Experienced in **Python, FastAPI, SQLAlchemy, Go, AWS, Azure*  
-- 📊 Exploring **Data Engineering, GenAI**
+- 💻 Passionate about Data Engineering, Cloud, Distributed Systems
+- 🔥 Experienced in Python, SQL, PySpark, Airflow, AWS/Azure
+- 📊 Building ETL pipelines, Data workflows, and scalable data systems
+- ⚙️ Experienced in FastAPI, REST APIs, and backend systems development
 
 📫 **How to Reach Me:**  
 - 📧 Email: ayushdoesdev@gmail.com  
