@@ -2,13 +2,13 @@
 
 🚀 **About Me:**
 
-* 💻 Passionate about Backend Engineering, Cloud Infrastructure, DevOps, and Generative AI
-* 🔥 Experienced in Python, Go, SQL, FastAPI, Distributed Systems, and Microservices
-* ☁️ Building scalable cloud-native applications on AWS and Azure
-* ⚙️ Skilled in Docker, Kubernetes, CI/CD, Infrastructure as Code, and backend architecture
-* 🤖 Exploring LLMs, RAG, AI Agents, Vector Databases, and production GenAI systems
-* 🌐 Familiar with modern frontend development using React and Svelte
-* 🚀 Focused on designing reliable, scalable, and developer-friendly systems
+* 💻 AI Full-Stack Developer specializing in Python, Django, FastAPI, React, Next.js, and Node.js
+* 🤖 Building AI-powered web applications using LLMs, RAG, LangChain, AI Agents, and workflow automation
+* ⚡ Experienced in designing scalable REST APIs, backend systems, microservices, and modern SaaS applications
+* 🗄️ Skilled in PostgreSQL, database design, authentication, authorization, and performance optimization
+* ☁️ Deploying production-ready applications using Docker, Kubernetes, AWS, Azure, and modern CI/CD practices
+* 🌐 Building responsive, SEO-friendly, and high-performance user interfaces with React and Next.js
+* 🚀 Passionate about solving real business problems through clean architecture, automation, and scalable software
 
 📫 **How to Reach Me:**
 
@@ -17,7 +17,7 @@
 
 😄 **Pronouns:** He/Him
 
-⚡ **Fun Fact:** I enjoy optimizing cloud infrastructure almost as much as I enjoy debugging distributed systems—and both are easier than deciding what to eat for dinner! 😆
+⚡ **Fun Fact:** I enjoy building AI-powered applications and optimizing backend systems—and both are easier than deciding what to eat for dinner! 😆
 
 Let's connect and build scalable, intelligent systems together! 🚀
 
