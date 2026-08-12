@@ -12,7 +12,7 @@
 
 ### 🛠️ Technical Skills
 
-**💻 Languages:** Python, SQL, Go
+**💻 Languages:** Python, SQL, Go  
 **⚙️ Backend:** FastAPI, Django, Django REST Framework, Flask  
 **☁️ Cloud:** AWS (EC2, ECS, Lambda, S3, SQS, API Gateway, IAM, CloudWatch)  
 **🗄️ Databases:** PostgreSQL, Redis, MongoDB  
