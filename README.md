@@ -10,6 +10,15 @@
 * 🌐 Building responsive, SEO-friendly, and high-performance user interfaces with React and Next.js
 * 🚀 Passionate about solving real business problems through clean architecture, automation, and scalable software
 
+### 🛠️ Technical Skills
+
+**💻 Languages:** Python, SQL, Go
+**⚙️ Backend:** FastAPI, Django, Django REST Framework, Flask  
+**☁️ Cloud:** AWS (EC2, ECS, Lambda, S3, SQS, API Gateway, IAM, CloudWatch)  
+**🗄️ Databases:** PostgreSQL, Redis, MongoDB  
+**🚀 DevOps:** Git, Jenkins, Docker, Kubernetes, Terraform, Prometheus, Grafana  
+**🤖 Additional:** Kafka, React, OpenAI APIs, LangChain, Pinecone
+
 📫 **How to Reach Me:**
 
 * 📧 Email: [ayushdoesdev@gmail.com](mailto:ayushdoesdev@gmail.com)
