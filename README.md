@@ -7,7 +7,7 @@
 * ⚡ Experienced in designing scalable REST APIs, backend systems, microservices, and modern SaaS applications
 * 🗄️ Skilled in PostgreSQL, database design, authentication, authorization, and performance optimization
 * ☁️ Deploying production-ready applications using Docker, Kubernetes, AWS, Azure, and modern CI/CD practices
-* 🌐 Building responsive, SEO-friendly, and high-performance user interfaces with React and Next.js
+* 🌐 Building responsive, SEO-friendly, and high-performance user interfaces with React, Next.js, Vue.js, Svelte
 * 🚀 Passionate about solving real business problems through clean architecture, automation, and scalable software
 
 ### 🛠️ Technical Skills
@@ -15,7 +15,7 @@
 **💻 Languages:** Python, SQL, Go  
 **⚙️ Backend:** FastAPI, Django, Django REST Framework, Flask  
 **☁️ Cloud:** AWS (EC2, ECS, Lambda, S3, SQS, API Gateway, IAM, CloudWatch)  
-**🗄️ Databases:** PostgreSQL, Redis, MongoDB  
+**🗄️ Databases:** PostgreSQL, MySQL, Redis, MongoDB  
 **🚀 DevOps:** Git, Jenkins, Docker, Kubernetes, Terraform, Prometheus, Grafana  
 **🤖 Additional:** Kafka, React, OpenAI APIs, LangChain, Pinecone
 
