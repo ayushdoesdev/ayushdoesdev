@@ -12,15 +12,28 @@
 * 🛠️ Passionate about **clean architecture, automation, scalable systems, and solving complex business problems through technology**
 
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-💻 **Languages:** Python • SQL • Go
-⚙️ **Backend:** FastAPI • Django • Kafka • gRPC • Gin
-☁️ **Cloud:** AWS (EC2 • ECS • Lambda • S3 • SQS • API Gateway • RDS)
-🗄️ **Databases:** PostgreSQL • Redis • MongoDB
-🚀 **DevOps:** Git • GitHub • Jenkins • Docker • Kubernetes • Terraform
-🤖 **GenAI:** LangChain • Azure OpenAI • Pinecone
-🛠️ **Tools:** Prometheus • Grafana • Splunk • Jira • GitHub Copilot
+**💻 Languages**  
+Python · SQL · Go
+
+**⚙️ Backend & APIs**  
+FastAPI · Django · Kafka · gRPC · Gin
+
+**☁️ Cloud & Infrastructure**  
+AWS · EC2 · ECS · Lambda · S3 · SQS · API Gateway · RDS
+
+**🗄️ Databases & Caching**  
+PostgreSQL · Redis · MongoDB
+
+**🚀 DevOps & CI/CD**  
+Git · GitHub · Jenkins · Docker · Kubernetes · Terraform
+
+**🤖 GenAI**  
+LangChain · Azure OpenAI · Pinecone
+
+**📊 Monitoring & Tools**  
+Prometheus · Grafana · Splunk · Jira · GitHub Copilot
 
 📫 **How to Reach Me:**
 
