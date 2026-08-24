@@ -2,22 +2,25 @@
 
 🚀 **About Me:**
 
-* 💻 AI Full-Stack Developer specializing in Python, Django, FastAPI, React, Next.js, and Node.js
-* 🤖 Building AI-powered web applications using LLMs, RAG, LangChain, AI Agents, and workflow automation
-* ⚡ Experienced in designing scalable REST APIs, backend systems, microservices, and modern SaaS applications
-* 🗄️ Skilled in PostgreSQL, database design, authentication, authorization, and performance optimization
-* ☁️ Deploying production-ready applications using Docker, Kubernetes, AWS, Azure, and modern CI/CD practices
-* 🌐 Building responsive, SEO-friendly, and high-performance user interfaces with React, Next.js, Vue.js, Svelte
-* 🚀 Passionate about solving real business problems through clean architecture, automation, and scalable software
+* 💻 **Backend & Software Engineer** specializing in Python, Go, FastAPI, Django, Gin, gRPC, and microservices
+* 🤖 **GenAI Engineer** building AI-powered applications using LangChain, Azure OpenAI, RAG, AI workflows, and Pinecone
+* ⚡ Experienced in designing **scalable REST APIs, distributed systems, event-driven architectures, and high-performance backend services**
+* 🗄️ Skilled in **PostgreSQL, Redis, MongoDB**, database design, caching, query optimization, and data-intensive applications
+* ☁️ Building and deploying **cloud-native applications on AWS** using EC2, ECS, Lambda, S3, SQS, API Gateway, and RDS
+* 🚀 Experienced with **Docker, Kubernetes, Terraform, Jenkins, and CI/CD** for reliable and scalable production deployments
+* 📊 Implementing **observability and monitoring** with Prometheus, Grafana, and Splunk to improve system reliability and performance
+* 🛠️ Passionate about **clean architecture, automation, scalable systems, and solving complex business problems through technology**
+
 
 ### 🛠️ Technical Skills
 
-**💻 Languages:** Python, SQL, Go  
-**⚙️ Backend:** FastAPI, Django, Django REST Framework, Flask  
-**☁️ Cloud:** AWS (EC2, ECS, Lambda, S3, SQS, API Gateway, IAM, CloudWatch)  
-**🗄️ Databases:** PostgreSQL, MySQL, Redis, MongoDB  
-**🚀 DevOps:** Git, Jenkins, Docker, Kubernetes, Terraform, Prometheus, Grafana  
-**🤖 Additional:** Kafka, React, OpenAI APIs, LangChain, Pinecone
+💻 **Languages:** Python • SQL • Go
+⚙️ **Backend:** FastAPI • Django • Kafka • gRPC • Gin
+☁️ **Cloud:** AWS (EC2 • ECS • Lambda • S3 • SQS • API Gateway • RDS)
+🗄️ **Databases:** PostgreSQL • Redis • MongoDB
+🚀 **DevOps:** Git • GitHub • Jenkins • Docker • Kubernetes • Terraform
+🤖 **GenAI:** LangChain • Azure OpenAI • Pinecone
+🛠️ **Tools:** Prometheus • Grafana • Splunk • Jira • GitHub Copilot
 
 📫 **How to Reach Me:**
 
