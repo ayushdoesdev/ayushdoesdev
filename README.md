@@ -12,7 +12,7 @@
 * 🛠️ Passionate about **clean architecture, automation, scalable systems, and solving complex business problems through technology**
 
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 - 💻 **Languages:** Python · SQL · Go
 - ⚙️ **Backend:** FastAPI · Django · Kafka · gRPC · Gin
@@ -32,4 +32,11 @@
 ⚡ **Fun Fact:** I enjoy building AI-powered applications and optimizing backend systems—and both are easier than deciding what to eat for dinner! 😆
 
 Let's connect and build scalable, intelligent systems together! 🚀
+
+### 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,kafka&perline=5" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github&perline=7" height="40" />
+<img src="https://skillicons.dev/icons?i=azure,grafana,prometheus,jira&perline=4" height="40" />
 
