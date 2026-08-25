@@ -35,7 +35,7 @@ Let's connect and build scalable, intelligent systems together! 🚀
 
 ### 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,kafka&perline=5" height="40" />
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,flask,kafka&perline=6" height="40" />
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3" height="40" />
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github&perline=7" height="40" />
 <img src="https://skillicons.dev/icons?i=azure,grafana,prometheus,jira&perline=4" height="40" />
