@@ -15,7 +15,7 @@
 ### 🛠️ Technical Skills
 
 - 💻 **Languages:** Python · SQL · Go
-- ⚙️ **Backend:** FastAPI · Django · Kafka · gRPC · Gin
+- ⚙️ **Backend:** FastAPI · Django · Flask · Kafka · gRPC · Gin
 - ☁️ **Cloud:** AWS (EC2 · ECS · Lambda · S3 · SQS · API Gateway · RDS)
 - 🗄️ **Databases:** PostgreSQL · Redis · MongoDB
 - 🚀 **DevOps:** Git · GitHub · Jenkins · Docker · Kubernetes · Terraform
