@@ -1,50 +1,103 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Ayush Anand Srivastava — Lead Software Engineer, with an animated connected systems network" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Ayush Anand Srivastava — Lead Software Engineer" />
 
-<a href="https://ayushdoesdev.in"><img src="https://img.shields.io/badge/PORTFOLIO-0B2530?style=flat-square&logo=vercel&logoColor=5EEAD4" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ayushdoesdev/"><img src="https://img.shields.io/badge/LINKEDIN-0B2530?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="mailto:ayushdoesdev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B2530?style=flat-square&logo=gmail&logoColor=5EEAD4" alt="Email" /></a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-**I build the systems behind the product.**
-
-Backend platforms · Event-driven systems · Data-intensive services · Production AI
+<a href="https://ayushdoesdev.in"><img src="https://img.shields.io/badge/PORTFOLIO-ayushdoesdev.in-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:ayushdoesdev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/ayushdoesdev/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
-<br />
+---
 
-### 🛠️ Technical Skills
+## Building software that holds up in production.
 
-- 💻 **Languages:** Python · SQL · Go
-- ⚙️ **Backend:** FastAPI · Django · Flask · Kafka · gRPC · Gin
-- ☁️ **Cloud:** AWS (EC2 · ECS · Lambda · S3 · SQS · API Gateway · RDS)
-- 🗄️ **Databases:** PostgreSQL · Redis · MongoDB
-- 🚀 **DevOps:** Git · GitHub · Jenkins · Docker · Kubernetes · Terraform
-- 🤖 **GenAI:** LangChain · Azure OpenAI · Pinecone
-- 🛠️ **Tools:** Prometheus · Grafana · Splunk · Jira · GitHub Copilot
+I'm a **Lead Software Engineer** focused on backend systems, distributed services, and reliable cloud applications. I design API-driven platforms, event-driven pipelines, data-intensive services, and production systems—with hands-on experience across **Python, Go, Java, and modern infrastructure**.
 
-### 🚀 Tech Stack
+I also apply **LLMs and retrieval-augmented generation (RAG)** to practical engineering workflows. My work is grounded in sound system design, measurable performance, operational visibility, and maintainability.
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,flask,kafka&perline=6" height="40" />
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3" height="40" />
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github&perline=7" height="40" />
-<img src="https://skillicons.dev/icons?i=azure,grafana,prometheus,jira&perline=4" height="40" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Backend+Architecture+%2F%2F+Distributed+Systems;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+Event-Driven+Systems;Cloud+Infrastructure+%2F%2F+Production+Reliability;Practical+GenAI+%2F%2F+RAG+%2F%2F+Developer+Tooling" alt="Animated engineering focus" />
+</div>
 
-<br />
+## Engineering focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Backend & distributed systems
+
+- API design, service boundaries, and microservices
+- Event-driven processing and asynchronous workflows
+- Data modelling, query performance, and caching
+- Reliability, observability, and production operations
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI engineering
+
+- LLM-powered application workflows
+- Retrieval-augmented generation and grounding
+- Agent orchestration and tool integration
+- Structured outputs and provider-agnostic model integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Cloud & infrastructure
+
+- AWS and Azure cloud services
+- Docker, Kubernetes, and Terraform
+- CI/CD, deployment automation, and infrastructure
+- Metrics, monitoring, and incident investigation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Engineering approach
+
+- Architecture with pragmatic trade-offs
+- Performance measured under real workloads
+- Maintainable systems and focused automation
+- Clear ownership from design through production
+
+</td>
+</tr>
+</table>
+
+## Technology landscape
 
 <div align="center">
 
-<sub>Focused on scalable backend platforms, reliable distributed systems, cloud infrastructure, and practical AI engineering.</sub>
+**Languages**
 
-<br /><br />
+<img src="https://skillicons.dev/icons?i=python,go,java,rust,js,ts&theme=dark" alt="Python, Go, Java, Rust, JavaScript, TypeScript" />
 
-<a href="https://ayushdoesdev.in">Explore the portfolio ↗</a>
+**Backend, data & messaging**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,flask,postgres,mysql,mongodb,redis,kafka&theme=dark" alt="FastAPI, Django, Spring, Flask, PostgreSQL, MySQL, MongoDB, Redis, Kafka" />
+
+**Cloud, infrastructure & delivery**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,jenkins,prometheus,grafana&theme=dark" alt="AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Prometheus, Grafana" />
+
+**AI engineering**
+
+<img src="https://img.shields.io/badge/LLMs-0F766E?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-155E75?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/LangChain-365314?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-334155?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-1D4ED8?style=for-the-badge" alt="Azure OpenAI" />
+<img src="https://img.shields.io/badge/Pinecone-047857?style=for-the-badge" alt="Pinecone" />
+
+</div>
+
+<div align="center">
+
+**[Portfolio](https://ayushdoesdev.in)** · **[GitHub](https://github.com/ayushdoesdev)** · **[LinkedIn](https://www.linkedin.com/in/ayushdoesdev/)** · **[Email](mailto:ayushdoesdev@gmail.com)**
 
 </div>
