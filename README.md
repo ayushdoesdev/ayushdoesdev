@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Ayush Anand Srivastava — Lead Software Engineer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=760&lines=Backend+Systems+%E2%80%A2+Distributed+Architecture;Cloud-Native+Engineering+%E2%80%A2+Event-Driven+Systems;Applied+AI+%E2%80%A2+LLM+%26+RAG+Workflows" alt="Animated engineering focus" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Ayush Anand Srivastava — Lead Software Engineer, with an animated connected systems network" />
 
 <a href="https://ayushdoesdev.in"><img src="https://img.shields.io/badge/PORTFOLIO-0B2530?style=flat-square&logo=vercel&logoColor=5EEAD4" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ayushdoesdev/"><img src="https://img.shields.io/badge/LINKEDIN-0B2530?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
@@ -22,27 +20,22 @@ Backend platforms · Event-driven systems · Data-intensive services · Producti
 
 <br />
 
-<div align="center">
+### 🛠️ Technical Skills
 
-### Technical Skills
+- 💻 **Languages:** Python · SQL · Go
+- ⚙️ **Backend:** FastAPI · Django · Flask · Kafka · gRPC · Gin
+- ☁️ **Cloud:** AWS (EC2 · ECS · Lambda · S3 · SQS · API Gateway · RDS)
+- 🗄️ **Databases:** PostgreSQL · Redis · MongoDB
+- 🚀 **DevOps:** Git · GitHub · Jenkins · Docker · Kubernetes · Terraform
+- 🤖 **GenAI:** LangChain · Azure OpenAI · Pinecone
+- 🛠️ **Tools:** Prometheus · Grafana · Splunk · Jira · GitHub Copilot
 
-**Languages & Backend**
+### 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,go,java,fastapi,django,flask&perline=6" height="44" />
-
-**Databases & Messaging**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka&perline=4" height="44" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github&perline=7" height="44" />
-
-**GenAI & Observability**
-
-<img src="https://skillicons.dev/icons?i=azure,grafana,prometheus&perline=3" height="44" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,flask,kafka&perline=6" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3" height="40" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github&perline=7" height="40" />
+<img src="https://skillicons.dev/icons?i=azure,grafana,prometheus,jira&perline=4" height="40" />
 
 <br />
 
