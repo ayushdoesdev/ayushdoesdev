@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="180"><stop stop-color="#0B2530"/><stop offset=".5" stop-color="#10263B"/><stop offset="1" stop-color="#17152F"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#5EEAD4"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<rect width="1200" height="180" rx="18" fill="url(#g)"/>
+<g stroke="#94A3B8" stroke-opacity=".16"><path d="M0 45H1200M0 90H1200M0 135H1200"/><path d="M300 0V180M600 0V180M900 0V180"/></g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#E2E8F0">
+ <text x="42" y="42" font-size="11" letter-spacing="3" fill="#5EEAD4">THE ENGINEERING TOOLBOX</text>
+ <text x="42" y="91" font-size="27" font-weight="700">Python <tspan fill="#64748B">/</tspan> Go <tspan fill="#64748B">/</tspan> Java</text>
+ <text x="42" y="122" font-size="13" fill="#94A3B8">Services · APIs · Distributed workloads</text>
+ <text x="430" y="91" font-size="27" font-weight="700">Cloud <tspan fill="#64748B">/</tspan> Data</text>
+ <text x="430" y="122" font-size="13" fill="#94A3B8">AWS · Kubernetes · PostgreSQL · Kafka</text>
+ <text x="820" y="91" font-size="27" font-weight="700">Applied AI</text>
+ <text x="820" y="122" font-size="13" fill="#94A3B8">LLMs · RAG · Agent workflows</text>
+</g>
+<path d="M42 151H1158" stroke="url(#a)" stroke-width="2" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-64" dur="5s" repeatCount="indefinite"/></path>
+</svg>
