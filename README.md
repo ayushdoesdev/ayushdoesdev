@@ -20,55 +20,6 @@ I also apply **LLMs and retrieval-augmented generation (RAG)** to practical engi
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Backend+Architecture+%2F%2F+Distributed+Systems;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+Event-Driven+Systems;Cloud+Infrastructure+%2F%2F+Production+Reliability;Practical+GenAI+%2F%2F+RAG+%2F%2F+Developer+Tooling" alt="Animated engineering focus" />
 </div>
 
-## Engineering focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Backend & distributed systems
-
-- API design, service boundaries, and microservices
-- Event-driven processing and asynchronous workflows
-- Data modelling, query performance, and caching
-- Reliability, observability, and production operations
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ AI engineering
-
-- LLM-powered application workflows
-- Retrieval-augmented generation and grounding
-- Agent orchestration and tool integration
-- Structured outputs and provider-agnostic model integrations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Cloud & infrastructure
-
-- AWS and Azure cloud services
-- Docker, Kubernetes, and Terraform
-- CI/CD, deployment automation, and infrastructure
-- Metrics, monitoring, and incident investigation
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Engineering approach
-
-- Architecture with pragmatic trade-offs
-- Performance measured under real workloads
-- Maintainable systems and focused automation
-- Clear ownership from design through production
-
-</td>
-</tr>
-</table>
-
 ## Technology landscape
 
 <div align="center">
